@@ -47,4 +47,4 @@ Below is a screenshot of the main dashboard interface, demonstrating the clean l
 
 *(Here, you should add a screenshot from your `4. Size+&+Position+Slicers.pptx` file. You can take a screenshot of the main slide and upload it to your repository.)*
 
-![UPI Dashboard Preview](Your-Dashboard-Screenshot.png)
+![UPI Dashboard Preview] https://github.com/Barrie20/UPI-Financial-Transaction-Analysis/blob/main/data/4.%20Size%2B%26%2BPosition%2BSlicers.pptx
